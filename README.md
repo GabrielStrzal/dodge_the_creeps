@@ -1,3 +1,5 @@
-#First Game made with GODOT
+# First Game made with GODOT Engine
 
-Based on the tutorial from the [website](http://docs.godotengine.org/en/latest/getting_started/step_by_step/your_first_game.html)
+## Dodge the Creeps
+
+Based on the tutorial from the GODOT's [website](http://docs.godotengine.org/en/latest/getting_started/step_by_step/your_first_game.html)
